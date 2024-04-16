@@ -1,4 +1,4 @@
-#4- 4. Faça um programa, utilizando Dicionários, que:
+#4- Faça um programa, utilizando Dicionários, que:
 
 #1° Passo: Peça para o usuário inserir quatro coisas em uma “Caixa Misteriosa” .
 #2° Passo: Peça para o usuário inserir um número.
