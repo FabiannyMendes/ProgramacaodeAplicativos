@@ -1,4 +1,4 @@
-#1- 1. Faça um programa que possua um Dicionário, adicione elementos ao dicionário e os mostre na tela.
+#1- Faça um programa que possua um Dicionário, adicione elementos ao dicionário e os mostre na tela.
 
 dicionario = {}
 
